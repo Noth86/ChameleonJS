@@ -1,6 +1,6 @@
 #ChameleonJS
 
-ChameleonJS is a minimalist client-side javascript error logger.
+ChameleonJS is a minimalist JS server-side errors logger.
 
 ## Usage
 
