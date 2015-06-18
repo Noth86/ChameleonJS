@@ -29,6 +29,17 @@ var parameters = { serverUrlLogger : 'www.fake.url.com/fakeUrl' };
 
 IE7+, Firefox, Chrome, Safari, and Opera.
 
+## Test Dependencies
+
+karma@0.12.36
+├── karma-cli@0.0.4
+├── karma-jasmine@0.3.5
+├── karma-phantomjs-launcher@0.2.0
+
+jasmine-core@2.3.4
+phantomjs@1.9.17
+
+
 ## Contributors welcome
 
 Contributors are welcome, there is a lot of ideas and new features to implement in the ChameleonJS project.
