@@ -39,6 +39,9 @@ karma@0.12.36
 jasmine-core@2.3.4
 phantomjs@1.9.17
 
+## Server Side Logger
+
+In the server folder there are some example scripts to catch errors and write them in the syslog log file.
 
 ## Contributors welcome
 
