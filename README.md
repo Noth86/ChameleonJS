@@ -31,13 +31,12 @@ IE7+, Firefox, Chrome, Safari, and Opera.
 
 ## Test Dependencies
 
-karma@0.12.36
-├── karma-cli@0.0.4
-├── karma-jasmine@0.3.5
-├── karma-phantomjs-launcher@0.2.0
-
-jasmine-core@2.3.4
-phantomjs@1.9.17
+- karma@0.12.36
+- karma-cli@0.0.4
+- karma-jasmine@0.3.5
+- karma-phantomjs-launcher@0.2.0
+- jasmine-core@2.3.4
+- phantomjs@1.9.17
 
 ## Server Side Logger
 
