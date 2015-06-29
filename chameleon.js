@@ -2,7 +2,7 @@
  * ChameleonJS - Error Logger
  * Logging javascript errors and report them
  *
- * @version 0.1
+ * @version 1.0
  * @license MIT license
  * @author https://github.com/Noth86
  */
