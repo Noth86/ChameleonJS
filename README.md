@@ -42,12 +42,12 @@ IE7+, Firefox, Chrome, Safari, and Opera.
 
 In the server folder there are some example scripts to catch errors and write them in the syslog log file.
 
-### Example PHP:
+Example PHP:
 ```
 Jun 19 15:51:38 vps apache2: [ChameleonJS] Browser: Chrome/43.0.2357.124 Message: Uncaught SyntaxError: Unexpected token ; File: file://ChameleonJS/demo/index.html Line: 8 Column: 20 Error: SyntaxError: Unexpected token ;
 ```
 
-### Example GO:
+Example GO:
 ```
 Jun 29 22:43:14 noth logger[38362]: 2015/06/29 22:43:14 Browser: Chrome/43.0.2357.124 Message: Uncaught SyntaxError: Unexpected token ; File: file://ChameleonJS/demo/index.html Line: 8 Column: 20 Error: SyntaxError: Unexpected token ;
 ```
