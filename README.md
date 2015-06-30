@@ -5,7 +5,7 @@ ChameleonJS is a minimalist JS server-side errors logger.
 ## Usage
 
 To use ChamaleonJS, download it and reference the file from your static files folder in the script tag.
-Copy and paste the script tag into every web page you want to track of javascript errors. Paste it immediately after the opening <head> tag.
+Copy and paste the script tag into every web page you want to track the javascript errors. Paste it immediately after the opening <head> tag.
 
 ```html
 <head>
