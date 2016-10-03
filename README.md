@@ -1,5 +1,6 @@
 # ChameleonJS
-https://travis-ci.org/Noth86/ChameleonJS.svg?branch=master
+[![Build Status](https://travis-ci.org/Noth86/ChameleonJS.svg?branch=master)](https://travis-ci.org/Noth86/ChameleonJS.svg?branch=master)
+
 
 ChameleonJS is a minimalist JS server-side errors logger.
 
