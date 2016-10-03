@@ -1,4 +1,5 @@
 # ChameleonJS
+https://travis-ci.org/Noth86/ChameleonJS.svg?branch=master
 
 ChameleonJS is a minimalist JS server-side errors logger.
 
@@ -29,14 +30,12 @@ var parameters = { serverUrlLogger : 'www.fake.url.com/fakeUrl' };
 
 IE7+, Firefox, Chrome, Safari, and Opera.
 
-## Test Dependencies
+## Run Test
 
-- karma@0.12.36
-- karma-cli@0.0.4
-- karma-jasmine@0.3.5
-- karma-phantomjs-launcher@0.2.0
-- jasmine-core@2.3.4
-- phantomjs@1.9.17
+```bash
+- npm install
+- ./node_modules/karma/bin/karma start test/karma.config.js --single-run
+```
 
 ## Server Side Logger
 
