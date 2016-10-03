@@ -1,0 +1,26 @@
+{
+    "name" : "ChameleonJS",
+    "version" : "1.0.0",
+    "description" : "Minimalist JS server-side logger",
+    "keywords" : [
+        "testing",
+        "karma",
+        "jasmine",
+        "travis",
+        "logger"
+    ],
+    "author" : "@Noth86",
+    "license" : "MIT",
+    "bugs" : {
+        "url" : "https://github.com/Noth86/ChameleonJS/issues"
+    },
+    "homepage" : "https://github.com/Noth86/ChameleonJS",
+    "devDependencies" : {
+        "karma": "^0.12.36",
+        "karma-cli" : "^0.0.4",
+        "phantomjs" : "^1.9.17",
+        "jasmine-core": "^2.3.4",
+        "karma-jasmine": "^0.3.5",
+        "karma-phantomjs-launcher" : "^0.2.0"
+    }
+}
