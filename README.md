@@ -35,7 +35,7 @@ IE7+, Firefox, Chrome, Safari, and Opera.
 
 ```bash
 - npm install
-- ./node_modules/karma/bin/karma start test/karma.config.js --single-run
+- npm test
 ```
 
 ## Server Side Logger
