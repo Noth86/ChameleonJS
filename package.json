@@ -16,11 +16,14 @@
     },
     "homepage" : "https://github.com/Noth86/ChameleonJS",
     "devDependencies" : {
-        "karma": "^0.12.36",
-        "karma-cli" : "^0.0.4",
-        "phantomjs" : "^1.9.17",
-        "jasmine-core": "^2.3.4",
-        "karma-jasmine": "^0.3.5",
-        "karma-phantomjs-launcher" : "^0.2.0"
+        "karma": "^1.3.0",
+        "karma-cli" : "^1.0.1",
+        "phantomjs" : "^2.1.7",
+        "jasmine-core": "^2.5.2",
+        "karma-jasmine": "^1.1.0",
+        "karma-phantomjs-launcher" : "^1.0.2"
+    },
+    "scripts": {
+        "test": "./node_modules/karma/bin/karma start test/karma.config.js --single-run"
     }
 }

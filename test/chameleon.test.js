@@ -8,7 +8,7 @@ describe("Chameleon Test Suite", function() {
 
     it("window.onerror must be called", function() {
         window.onerror('messaggio', 'file', 'line', 'column', 'error');
-        data = 'browser=Safari/534.34&message=messaggio&file=file&line=line&column=column&error=error';
+        data = 'browser=Safari/538.1&message=messaggio&file=file&line=line&column=column&error=error';
 
         expect(XMLHttpRequest.prototype.open).toHaveBeenCalled();
         expect(XMLHttpRequest.prototype.setRequestHeader).toHaveBeenCalled();
